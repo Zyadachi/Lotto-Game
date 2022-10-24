@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraLotto", "GraLotto\GraLotto.csproj", "{6CCC6E7C-63FB-4BDA-A19E-3C4B94A6301D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CCC6E7C-63FB-4BDA-A19E-3C4B94A6301D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCC6E7C-63FB-4BDA-A19E-3C4B94A6301D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CCC6E7C-63FB-4BDA-A19E-3C4B94A6301D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCC6E7C-63FB-4BDA-A19E-3C4B94A6301D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA09057F-FBA2-4EAF-9FA6-1005E54C8B10}
+	EndGlobalSection
+EndGlobal
